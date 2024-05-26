@@ -31,3 +31,4 @@ Texteditor
 - pathlib
 - pyttsx3
 - TextEditorFunctions(Self Made)
+- pyperclip
