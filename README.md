@@ -12,7 +12,7 @@ Distance Calculator
 Calculator
  Simple GUI Calculator
 ### Library Used
-- PySimpleGUI
+- PySimpleGUI==4.60.5
 # Project 3
 Stopwatch
  GUI Stopwatch
